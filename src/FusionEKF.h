@@ -26,6 +26,8 @@ class FusionEKF {
    */
   void ProcessMeasurement(const MeasurementPackage &measurement_pack);
 
+
+
   /**
    * Kalman Filter update and prediction math lives in here.
    */
@@ -44,6 +46,7 @@ class FusionEKF {
   Eigen::MatrixXd R_radar_;
   Eigen::MatrixXd H_laser_;
   Eigen::MatrixXd Hj_;
+
 };
 
 #endif // FusionEKF_H_
