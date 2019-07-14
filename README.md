@@ -1,9 +1,13 @@
 # Extended Kalman Filters
 
+This project contains an implementation of Extended Kalman Filters for the Udacity Nanodegree program. 
+
 | Dataset #1  | Dataset #2  |
 |---|---|
 | ![dataset1gif](dataset1.gif)  | ![dataset2gif](dataset2.gif)  |
 | [video 1](dataset1.mov)    | [video 2](dataset2.mov)    |
+
+## How to run
 
 Once the install for uWebSocketIO is complete:
 
