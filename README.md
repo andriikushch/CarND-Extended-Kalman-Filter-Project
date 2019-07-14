@@ -17,7 +17,7 @@ Once the install for uWebSocketIO is complete:
 
 ## Accuracy
 
-This implementation meets accuracy requirement: ```RMSE <= [.11, .11, 0.52, 0.52]```. It has higher values at the beginning, but it meets requirements after few rounds. 
+This implementation meets accuracy requirement: ```RMSE <= [.11, .11, 0.52, 0.52]```. It has higher values at the beginning, but it meets the requirements after few rounds. 
 
 ## Follows the Correct Algorithm
 
